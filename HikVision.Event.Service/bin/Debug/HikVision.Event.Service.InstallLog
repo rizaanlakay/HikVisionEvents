@@ -1,0 +1,579 @@
+﻿Installing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Installing service HikVision Event Service...
+Service HikVision Event Service has been successfully installed.
+Creating EventLog source HikVision Event Service in log Application...
+Committing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Uninstalling assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Removing EventLog source HikVision Event Service.
+Service HikVision Event Service is being removed from the system...
+Service HikVision Event Service was successfully removed from the system.
+Installing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Installing service HikVision Event Service...
+Creating EventLog source HikVision Event Service in log Application...
+Rolling back assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Restoring event log to previous state for source HikVision Event Service.
+Installing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Installing service HikVision Event Service...
+Creating EventLog source HikVision Event Service in log Application...
+Rolling back assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Restoring event log to previous state for source HikVision Event Service.
+Installing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Installing service HikVision Event Service...
+Creating EventLog source HikVision Event Service in log Application...
+Rolling back assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Restoring event log to previous state for source HikVision Event Service.
+Uninstalling assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Removing EventLog source HikVision Event Service.
+Warning: The source HikVision Event Service is not registered on the local machine.
+Service HikVision Event Service is being removed from the system...
+Service HikVision Event Service was successfully removed from the system.
+Installing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Installing service HikVision Event Service...
+Creating EventLog source HikVision Event Service in log Application...
+Rolling back assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Restoring event log to previous state for source HikVision Event Service.
+Installing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Installing service HikVision Event Service...
+Service HikVision Event Service has been successfully installed.
+Creating EventLog source HikVision Event Service in log Application...
+Committing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Uninstalling assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Removing EventLog source HikVision Event Service.
+Service HikVision Event Service is being removed from the system...
+Service HikVision Event Service was successfully removed from the system.
+Uninstalling assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Removing EventLog source HikVision Event Service.
+Warning: The source HikVision Event Service is not registered on the local machine.
+Service HikVision Event Service is being removed from the system...
+Service HikVision Event Service was successfully removed from the system.
+Installing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Installing service HikVision Event Service...
+Creating EventLog source HikVision Event Service in log Application...
+Rolling back assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Restoring event log to previous state for source HikVision Event Service.
+Installing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Installing service HikVision Event Service...
+Creating EventLog source HikVision Event Service in log Application...
+Rolling back assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Restoring event log to previous state for source HikVision Event Service.
+Installing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Installing service HikVision Event Service...
+Creating EventLog source HikVision Event Service in log Application...
+Rolling back assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Restoring event log to previous state for source HikVision Event Service.
+Uninstalling assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Removing EventLog source HikVision Event Service.
+Warning: The source HikVision Event Service is not registered on the local machine.
+Service HikVision Event Service is being removed from the system...
+Service HikVision Event Service was successfully removed from the system.
+Installing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Installing service HikVision Event Service...
+Creating EventLog source HikVision Event Service in log Application...
+Rolling back assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Restoring event log to previous state for source HikVision Event Service.
+Uninstalling assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Removing EventLog source HikVision Event Service.
+Warning: The source HikVision Event Service is not registered on the local machine.
+Service HikVision Event Service is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Installing service HikVision Event Service...
+Service HikVision Event Service has been successfully installed.
+Creating EventLog source HikVision Event Service in log Application...
+Committing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Uninstalling assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Removing EventLog source HikVision Event Service.
+Service HikVision Event Service is being removed from the system...
+Service HikVision Event Service was successfully removed from the system.
+Uninstalling assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Removing EventLog source HikVision Event Service.
+Warning: The source HikVision Event Service is not registered on the local machine.
+Service HikVision Event Service is being removed from the system...
+Service HikVision Event Service was successfully removed from the system.
+Uninstalling assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Removing EventLog source HikVision Event Service.
+Warning: The source HikVision Event Service is not registered on the local machine.
+Service HikVision Event Service is being removed from the system...
+Service HikVision Event Service was successfully removed from the system.
+Installing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Installing service HikVision Event Service...
+Creating EventLog source HikVision Event Service in log Application...
+Rolling back assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Restoring event log to previous state for source HikVision Event Service.
+Installing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Installing service HikVision Event Service...
+Creating EventLog source HikVision Event Service in log Application...
+Rolling back assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Restoring event log to previous state for source HikVision Event Service.
+Uninstalling assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Removing EventLog source HikVision Event Service.
+Warning: The source HikVision Event Service is not registered on the local machine.
+Service HikVision Event Service is being removed from the system...
+Service HikVision Event Service was successfully removed from the system.
+Installing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Installing service HikVision Event Service...
+Creating EventLog source HikVision Event Service in log Application...
+Rolling back assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Restoring event log to previous state for source HikVision Event Service.
+Installing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Installing service HikVision Event Service...
+Service HikVision Event Service has been successfully installed.
+Creating EventLog source HikVision Event Service in log Application...
+Committing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Uninstalling assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Removing EventLog source HikVision Event Service.
+Service HikVision Event Service is being removed from the system...
+Service HikVision Event Service was successfully removed from the system.
+Uninstalling assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Removing EventLog source HikVision Event Service.
+Warning: The source HikVision Event Service is not registered on the local machine.
+Service HikVision Event Service is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Installing service HikVision Event Service...
+Service HikVision Event Service has been successfully installed.
+Creating EventLog source HikVision Event Service in log Application...
+Committing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Uninstalling assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Removing EventLog source HikVision Event Service.
+Service HikVision Event Service is being removed from the system...
+Service HikVision Event Service was successfully removed from the system.
+Uninstalling assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Removing EventLog source HikVision Event Service.
+Warning: The source HikVision Event Service is not registered on the local machine.
+Service HikVision Event Service is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Installing service HikVision Event Service...
+Service HikVision Event Service has been successfully installed.
+Creating EventLog source HikVision Event Service in log Application...
+Committing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Uninstalling assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Removing EventLog source HikVision Event Service.
+Service HikVision Event Service is being removed from the system...
+Service HikVision Event Service was successfully removed from the system.
+Uninstalling assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Removing EventLog source HikVision Event Service.
+Warning: The source HikVision Event Service is not registered on the local machine.
+Service HikVision Event Service is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Installing service HikVision Event Service...
+Service HikVision Event Service has been successfully installed.
+Creating EventLog source HikVision Event Service in log Application...
+Committing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Uninstalling assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Removing EventLog source HikVision Event Service.
+Service HikVision Event Service is being removed from the system...
+Service HikVision Event Service was successfully removed from the system.
+Uninstalling assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Removing EventLog source HikVision Event Service.
+Warning: The source HikVision Event Service is not registered on the local machine.
+Service HikVision Event Service is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Installing service HikVision Event Service...
+Service HikVision Event Service has been successfully installed.
+Creating EventLog source HikVision Event Service in log Application...
+Committing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Uninstalling assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Removing EventLog source HikVision Event Service.
+Service HikVision Event Service is being removed from the system...
+Service HikVision Event Service was successfully removed from the system.
+Installing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Installing service HikVision Event Service...
+Service HikVision Event Service has been successfully installed.
+Creating EventLog source HikVision Event Service in log Application...
+Committing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Uninstalling assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Removing EventLog source HikVision Event Service.
+Service HikVision Event Service is being removed from the system...
+Service HikVision Event Service was successfully removed from the system.
+Installing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Installing service HikVision Event Service...
+Service HikVision Event Service has been successfully installed.
+Creating EventLog source HikVision Event Service in log Application...
+Committing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Uninstalling assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Removing EventLog source HikVision Event Service.
+Service HikVision Event Service is being removed from the system...
+Service HikVision Event Service was successfully removed from the system.
+Uninstalling assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Removing EventLog source HikVision Event Service.
+Warning: The source HikVision Event Service is not registered on the local machine.
+Service HikVision Event Service is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Installing service HikVision Event Service...
+Service HikVision Event Service has been successfully installed.
+Creating EventLog source HikVision Event Service in log Application...
+Committing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Uninstalling assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Removing EventLog source HikVision Event Service.
+Service HikVision Event Service is being removed from the system...
+Service HikVision Event Service was successfully removed from the system.
+Uninstalling assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Removing EventLog source HikVision Event Service.
+Warning: The source HikVision Event Service is not registered on the local machine.
+Service HikVision Event Service is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Installing service HikVision Event Service...
+Service HikVision Event Service has been successfully installed.
+Creating EventLog source HikVision Event Service in log Application...
+Committing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Uninstalling assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Removing EventLog source HikVision Event Service.
+Service HikVision Event Service is being removed from the system...
+Service HikVision Event Service was successfully removed from the system.
+Uninstalling assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Removing EventLog source HikVision Event Service.
+Warning: The source HikVision Event Service is not registered on the local machine.
+Service HikVision Event Service is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Installing service HikVision Event Service...
+Service HikVision Event Service has been successfully installed.
+Creating EventLog source HikVision Event Service in log Application...
+Committing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Uninstalling assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Removing EventLog source HikVision Event Service.
+Service HikVision Event Service is being removed from the system...
+Service HikVision Event Service was successfully removed from the system.
+Installing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Installing service HikVision Event Service...
+Service HikVision Event Service has been successfully installed.
+Creating EventLog source HikVision Event Service in log Application...
+Committing assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Uninstalling assembly 'C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog
+   assemblypath = C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe
+Removing EventLog source HikVision Event Service.
+Service HikVision Event Service is being removed from the system...
+Service HikVision Event Service was successfully removed from the system.

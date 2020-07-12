@@ -1,0 +1,579 @@
+﻿
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.exe assembly's progress.
+The file is located at C:\Development\HikVision\Code\HikVision.Event.Service\HikVision.Event.Service\bin\Debug\HikVision.Event.Service.InstallLog.
+
+The uninstall has completed.
